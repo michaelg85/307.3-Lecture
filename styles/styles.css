@@ -1,0 +1,22 @@
+html {
+    background-color: lightskyblue;
+}
+
+body {
+    border: 5px solid blue;
+    text-align: center;
+    border-radius: 10px 25px 25px 25px;
+}
+
+h1 {
+    color: blue;
+}
+
+#square {
+    width:150px;
+    height: 150px;
+    float: right;
+    border: 8px green solid;
+    border-width: 5px;
+    border-radius: 50%;
+}
